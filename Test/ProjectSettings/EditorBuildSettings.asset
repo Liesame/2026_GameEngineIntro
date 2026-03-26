@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/TitieScene.unity
+    guid: 6a21982a203d1e84ab614c881b95424a
+  - enabled: 1
+    path: Assets/Scenes/PlayScene_Door1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/PlayScene_Door2.unity
+    guid: 095df391df9ec784193c4b78b5b79578
+  - enabled: 1
+    path: Assets/Scenes/PlayScene_Door3.unity
+    guid: d13e2f9cb39870b449cfbe5abaa574d3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
